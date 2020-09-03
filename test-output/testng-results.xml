@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="154" started-at="2020-08-27T18:47:38 EEST" finished-at="2020-08-27T18:47:38 EEST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="154" started-at="2020-08-27T18:47:38 EEST" finished-at="2020-08-27T18:47:38 EEST">
+      <class name="qaclickacademy.RESTAPITest">
+        <test-method status="PASS" signature="APITest1()[pri:0, instance:qaclickacademy.RESTAPITest@76b0bfab]" name="APITest1" duration-ms="2" started-at="2020-08-27T18:47:38 EEST" finished-at="2020-08-27T18:47:38 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APITest1 -->
+        <test-method status="PASS" signature="APITest2()[pri:0, instance:qaclickacademy.RESTAPITest@76b0bfab]" name="APITest2" duration-ms="3" started-at="2020-08-27T18:47:38 EEST" finished-at="2020-08-27T18:47:38 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APITest2 -->
+      </class> <!-- qaclickacademy.RESTAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="SeleniumTest1()[pri:0, instance:qaclickacademy.SeleniumTest@7a765367]" name="SeleniumTest1" duration-ms="12" started-at="2020-08-27T18:47:38 EEST" finished-at="2020-08-27T18:47:38 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest1 -->
+        <test-method status="PASS" signature="SeleniumTest2()[pri:0, instance:qaclickacademy.SeleniumTest@7a765367]" name="SeleniumTest2" duration-ms="3" started-at="2020-08-27T18:47:38 EEST" finished-at="2020-08-27T18:47:38 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest2 -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+      <class name="qaclickacademy.ApiumTest">
+        <test-method status="PASS" signature="ApiumTest1()[pri:0, instance:qaclickacademy.ApiumTest@17d677df]" name="ApiumTest1" duration-ms="4" started-at="2020-08-27T18:47:38 EEST" finished-at="2020-08-27T18:47:38 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiumTest1 -->
+        <test-method status="PASS" signature="ApiumTest2()[pri:0, instance:qaclickacademy.ApiumTest@17d677df]" name="ApiumTest2" duration-ms="1" started-at="2020-08-27T18:47:38 EEST" finished-at="2020-08-27T18:47:38 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiumTest2 -->
+      </class> <!-- qaclickacademy.ApiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
