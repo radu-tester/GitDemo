@@ -20,4 +20,11 @@ public class RESTAPITest {
 		System.out.println("APITest22");
 	}
 
+	@Test
+	public void APITest3() {
+		
+		System.out.println("APITest3");
+		System.out.println("APITest31");
+		System.out.println("APITest32");
+	}
 }
