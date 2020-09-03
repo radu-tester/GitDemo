@@ -27,5 +27,11 @@ public class ApiumTest {
 		
 		System.out.println("Android test2");
 	}
+	
+	@Test
+	public void IOSTest1() {
+		
+		System.out.println("IOS test1");
+	}
 
 }
